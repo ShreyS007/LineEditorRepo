@@ -7,6 +7,7 @@ This document outlines all available commands for the C Line Editor. The editor 
 * **DISPLAY**
   * **Description:** Prints the entire document to the terminal with line numbers.
   * **Usage:** `DISPLAY`
+  *   - **Example:** `DISPLAY`
 
 * **INSERT**
   * **Description:** Adds a new line of text at the specified line number, shifting existing lines down.
@@ -43,6 +44,7 @@ This document outlines all available commands for the C Line Editor. The editor 
 * **STATS**
   * **Description:** Calculates and displays the total number of lines and the total number of words in the current document.
   * **Usage:** `STATS`
+  *   - **Example:** `STATS`
 
 * **DELETE_FILE**
   * **Description:** Permanently deletes an actual text file from your local disk.
