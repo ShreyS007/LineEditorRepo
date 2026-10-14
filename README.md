@@ -32,6 +32,13 @@ We successfully implemented the following features based on the competition rubr
 ## How to Compile and Run
 
 **1. Compilation**
-Open your terminal, navigate to the directory containing `editor.c`, and compile the code using `gcc`:
+Open your terminal, navigate to the directory containing `Main.c`, and compile the code using `gcc`:
 ```bash
-gcc editor.c -o editor
+gcc Main.c -o editor
+```
+
+**2. Running**
+- Windows: `editor.exe`
+- Linux / macOS: `./editor`
+
+Full command list with examples: see [Help.md](Help.md).
